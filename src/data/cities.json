@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -25,28 +13,52 @@
       "id": 17806751
     },
     {
-      "cityName": "Herrera del Duque",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-10-12T06:08:16.340Z",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-10-14T04:49:49.385Z",
       "notes": "",
       "position": {
-        "lat": "39.26628442213066",
-        "lng": "-4.94384765625"
+        "lat": "39.94343646197423",
+        "lng": "32.83813476562501"
       },
       "id": 73930386
     },
     {
-      "cityName": "In Salah",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-10-12T06:11:01.406Z",
+      "cityName": "Herrera del Duque",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-14T06:58:50.069Z",
       "notes": "",
       "position": {
-        "lat": "27.97499795326776",
-        "lng": "2.83447265625"
+        "lat": "39.18117526158749",
+        "lng": "-4.987792968750001"
       },
-      "id": 73930387
+      "id": 73930389
+    },
+    {
+      "cityName": "Gualdo Cattaneo",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-10-14T08:31:12.398Z",
+      "notes": "",
+      "position": {
+        "lat": "42.97250158602597",
+        "lng": "12.502441406250002"
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Avanos",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-10-14T09:06:18.133Z",
+      "notes": "",
+      "position": {
+        "lat": "38.839707613545144",
+        "lng": "34.76074218750001"
+      },
+      "id": 73930391
     }
   ]
 }
